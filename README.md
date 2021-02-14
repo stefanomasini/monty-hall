@@ -39,3 +39,8 @@ The probability of picking the right door in scenario 1 is 2/3 * 1/2 = 1/3. The 
 so overall probability of choosing the right door is 1/3+1/3 = 2/3.
 
 Q.E.D. :-)
+
+Another explanation in simple terms: at the time of the first guess, there was 1/3 possibility that the door was 
+the good one, and the other 2/3 of possibilities was a 50/50 choice between 2 doors. This latter scenario becomes
+a 100% sure hit choice after one of the wrong doors is revealed to us. Which explains why always switching is
+preferrable.
